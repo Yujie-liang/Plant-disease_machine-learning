@@ -1,1 +1,1 @@
-This is the classifier for plant diseases on different crops.
+This is a classifier for plant diseases on different crops.
